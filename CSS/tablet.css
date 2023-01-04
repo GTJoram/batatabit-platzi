@@ -1,0 +1,13 @@
+.main-plans .plans-card__slider {
+	justify-content: center;
+}
+.main-product-detail .detail-card-container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.main-product-detail .detail-card-item {
+	margin: 10px;
+}
